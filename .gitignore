@@ -1,0 +1,7 @@
+node_modules/
+.DS_Store
+*.log
+
+# Interviewer-only files (rubrics, solutions) — do not share with candidates
+.interviewer/
+INTERVIEWER.md
